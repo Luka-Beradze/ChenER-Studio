@@ -9,7 +9,7 @@ A lightweight, browser-based diagramming and sketching web application inspired 
 - **Lightning Fast:** Fully client-side app with zero heavy backend latency.
 - **Modern UI / Responsive Canvas:** Clean workspace optimized for quick sketching, wireframing, and diagramming.
 
-## 🚀 Live Demo
+## 🚀 online hosted version (will receive updates earlier than app)
 
 Check out the live application hosted on Netlify:  
 👉 [chen-studio.netlify.app](https://chen-studio.netlify.app/)
@@ -22,3 +22,5 @@ Check out the live application hosted on Netlify:
 - **Browser Local Storage API**
 
 ## 📦 windows package in the releases page
+
+windows installer requires to be ran as administrator to run.
