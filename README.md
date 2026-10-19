@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Chen ER Studio 🎨✏️
 
-# Run and deploy your AI Studio app
+A lightweight, browser-based diagramming and sketching web application inspired by tools like Draw.io. Built entirely for client-side execution, Chen Studio allows you to create flowcharts, diagrams, and visual designs seamlessly without requiring an account or login.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/024f31e5-c7b8-4ec6-b4ca-1d56ada54dfe
+- **Zero Configuration & No Login:** Start drawing immediately right in your browser.
+- **Client-Side Persistence:** Automatically saves your work using browser storage (`localStorage` / `IndexedDB`), ensuring your diagrams are preserved across sessions.
+- **Lightning Fast:** Fully client-side app with zero heavy backend latency.
+- **Modern UI / Responsive Canvas:** Clean workspace optimized for quick sketching, wireframing, and diagramming.
 
-## Run Locally
+## 🚀 Live Demo
 
-**Prerequisites:**  Node.js
+Check out the live application hosted on Netlify:  
+👉 [chen-studio.netlify.app](https://chen-studio.netlify.app/)
 
+## 🛠️ Built With
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **HTML5 Canvas / SVG**
+- **Vanilla JavaScript (ES6+)**
+- **CSS3 / Modern Styling**
+- **Browser Local Storage API**
+
+## 📦 windows package in the releases page
