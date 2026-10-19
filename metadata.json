@@ -1,0 +1,6 @@
+{
+  "name": "ChenER Studio — Entity-Relationship Diagram Modeler",
+  "description": "Precision Chen-notation ER diagram modeling workspace with drag-and-drop entities, relationships, attributes, generalizations, frames, smart anchor routing, and PNG/PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

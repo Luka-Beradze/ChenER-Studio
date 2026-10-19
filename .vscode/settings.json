@@ -1,0 +1,19 @@
+{
+  "files.watcherExclude": {
+    "**/release/**": true,
+    "**/dist/**": true,
+    "**/dist-desktop/**": true,
+    "**/build-desktop/**": true,
+    "**/*.asar": true
+  },
+  "search.exclude": {
+    "**/release": true,
+    "**/dist": true,
+    "**/dist-desktop": true,
+    "**/build-desktop": true,
+    "**/*.asar": true
+  },
+  "files.exclude": {
+    "**/*.asar": true
+  }
+}

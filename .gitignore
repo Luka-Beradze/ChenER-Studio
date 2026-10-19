@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+release/
+dist-desktop/
+build-desktop/
+coverage/
+*.log
+.env*
+!.env.example
